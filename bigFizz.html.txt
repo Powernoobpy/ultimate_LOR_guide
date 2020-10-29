@@ -1,0 +1,7 @@
+<h1>Big Fizz</h1>
+<span><b>Style</b>: Combo</span>
+<span><b>Champion(s)</b> : Fizz</span>
+<span>Take care Fizz until he's big or relying on high-value buffs OTK to hit opponent's face. With Fizz's skill, 
+    it is very strong Champion. But not suitable during meta with brust spell in every deck or meta of Elusive deck.
+    U can modify with other champion or region to Cover the weaknesses such as [Mist'scall], [Bastion] or frostbite enemy who challenges your Fizz.
+</span> 
